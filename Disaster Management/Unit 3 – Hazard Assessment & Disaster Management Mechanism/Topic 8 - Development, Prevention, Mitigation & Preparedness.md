@@ -6,7 +6,7 @@ Let’s get it done properly.
 
 ---
 
-# **7. Development, Prevention, Mitigation & Preparedness**
+# **8. Development, Prevention, Mitigation & Preparedness**
 
 *(Importance: High — examiners love short notes or “differentiate between” questions.)*
 
